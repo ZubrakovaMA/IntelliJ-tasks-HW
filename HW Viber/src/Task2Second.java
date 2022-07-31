@@ -1,4 +1,5 @@
 import java.util.Random;
+import java.util.Scanner;
 
 public class  Task2Second {
 
@@ -12,7 +13,7 @@ public class  Task2Second {
             System.out.println ( "front");
         }
         else if (i==0) {
-            System.out.println ( "backside");
+            System.out.println("backside");
         }
     }
 }
